@@ -36,4 +36,4 @@ document.addEventListener('DOMContentLoaded', () => {
             feedbackDiv.style.color = "#dc3545";
         }
     });
-});["function"]
+});
